@@ -87,6 +87,10 @@ body {
     position: sticky;
 }
 
+ .mooi {
+    width: 100px;
+}
+
 #navbar {
     display: flex;
     align-items: center;
